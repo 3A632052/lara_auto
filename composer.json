@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "abcd",
+    "authors": [
+        {
+            "name": "Stanly Chung",
+            "email": "s3A632052@student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
